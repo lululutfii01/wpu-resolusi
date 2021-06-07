@@ -1,0 +1,6 @@
+halo nama saya florry
+
+Resolusi saya :
+- menggunakan website menggunakan framework javascript
+- membuat website dengan plugin wordpress
+- membuat website php
