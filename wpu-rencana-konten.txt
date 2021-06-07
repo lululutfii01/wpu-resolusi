@@ -3,7 +3,9 @@ RENCANA KONTEN WPU
 - JAVASCRIPT  
   *ES6
   *Framework Javascript
-- Fundemental
+  ^anular
+  ^react
 - PHP FRAMEWORK
+ ^laravel
 - INTERVIEW
 - VLOG
